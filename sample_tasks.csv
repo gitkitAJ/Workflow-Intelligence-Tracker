@@ -1,0 +1,7 @@
+task_name,description,category,status,estimated_minutes,actual_minutes,inputs,outputs,workflow_name
+Prepare weekly sales report,Compile weekly sales data and summarize revenue trends,Reporting,Done,45,55,Sales database,Weekly sales report,Weekly reporting
+Create sales trend summary,Generate a weekly summary of sales patterns and revenue changes,Reporting,Todo,30,,Sales database,Sales trend summary,Weekly reporting
+Clean customer dataset,Remove duplicates and standardize customer fields before analysis,Data,Done,60,50,Raw customer CSV,Clean customer dataset,Customer analysis
+Validate customer records,Check customer records for missing fields and inconsistent formats,Data,In Progress,35,,Raw customer CSV,Validated customer records,Customer analysis
+Send project update,Write and send a short status update to stakeholders,Communication,Todo,15,,Project notes,Stakeholder email,Project coordination
+Review project risks,Identify blockers and assess risks for upcoming milestones,Planning,Todo,25,,Project plan,Risk register,Project coordination
